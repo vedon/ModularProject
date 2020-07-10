@@ -1,0 +1,40 @@
+PODS:
+  - Feature1_swift (0.1.0):
+    - Feature4_objc
+  - Feature2_swift (0.1.0):
+    - Feature1_swift
+  - Feature3_swift (0.1.0):
+    - Feature4_objc
+    - Feature5_objc
+  - Feature4_objc (0.1.0)
+  - Feature5_objc (0.1.0)
+
+DEPENDENCIES:
+  - Feature1_swift (from `./ModularProject/DevPods/Feature1_swift/`)
+  - Feature2_swift (from `./ModularProject/DevPods/Feature2_swift/`)
+  - Feature3_swift (from `./ModularProject/DevPods/Feature3_swift/`)
+  - Feature4_objc (from `./ModularProject/DevPods/Feature4_objc/`)
+  - Feature5_objc (from `./ModularProject/DevPods/Feature5_objc/`)
+
+EXTERNAL SOURCES:
+  Feature1_swift:
+    :path: "./ModularProject/DevPods/Feature1_swift/"
+  Feature2_swift:
+    :path: "./ModularProject/DevPods/Feature2_swift/"
+  Feature3_swift:
+    :path: "./ModularProject/DevPods/Feature3_swift/"
+  Feature4_objc:
+    :path: "./ModularProject/DevPods/Feature4_objc/"
+  Feature5_objc:
+    :path: "./ModularProject/DevPods/Feature5_objc/"
+
+SPEC CHECKSUMS:
+  Feature1_swift: 06772ba093d17d179eb081def589618102442051
+  Feature2_swift: 9834940f5d6864eca63b7897dd9575c67e7cb795
+  Feature3_swift: c5159c8610b631354ab59b141fc736b10694f14f
+  Feature4_objc: 7d7022ee2eedb57bd74d59e508f8fc0221950445
+  Feature5_objc: 4860bd41c4e3b82998c8aa5a4c3b73b06b630585
+
+PODFILE CHECKSUM: b0ba94efb9315833b095db616d5682c1545e0aff
+
+COCOAPODS: 1.9.1

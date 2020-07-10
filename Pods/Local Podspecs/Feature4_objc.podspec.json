@@ -1,0 +1,22 @@
+{
+  "name": "Feature4_objc",
+  "version": "0.1.0",
+  "summary": "A short description of Feature4_objc.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vedon/Feature4_objc",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vedon": "fuweidong@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/vedon/Feature4_objc.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Feature4_objc/Classes/**/*"
+}

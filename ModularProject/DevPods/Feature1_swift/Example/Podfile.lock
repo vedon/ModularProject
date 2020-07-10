@@ -1,0 +1,16 @@
+PODS:
+  - Feature1_swift (0.1.0)
+
+DEPENDENCIES:
+  - Feature1_swift (from `../`)
+
+EXTERNAL SOURCES:
+  Feature1_swift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Feature1_swift: 6350fea2344c2bc53c1cfbf5efe3aeda54bfcdd2
+
+PODFILE CHECKSUM: eee8c0e560b1be2a34a003eba436e00538d44866
+
+COCOAPODS: 1.9.1

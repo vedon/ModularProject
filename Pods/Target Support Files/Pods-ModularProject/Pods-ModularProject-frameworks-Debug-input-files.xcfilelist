@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-ModularProject/Pods-ModularProject-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Feature1_swift/Feature1_swift.framework
+${BUILT_PRODUCTS_DIR}/Feature2_swift/Feature2_swift.framework
+${BUILT_PRODUCTS_DIR}/Feature3_swift/Feature3_swift.framework
+${BUILT_PRODUCTS_DIR}/Feature4_objc/Feature4_objc.framework
+${BUILT_PRODUCTS_DIR}/Feature5_objc/Feature5_objc.framework

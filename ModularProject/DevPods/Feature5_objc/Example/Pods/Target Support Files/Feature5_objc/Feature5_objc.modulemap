@@ -1,0 +1,6 @@
+framework module Feature5_objc {
+  umbrella header "Feature5_objc-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - Feature4_objc (0.1.0)
+
+DEPENDENCIES:
+  - Feature4_objc (from `../`)
+
+EXTERNAL SOURCES:
+  Feature4_objc:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Feature4_objc: 7d7022ee2eedb57bd74d59e508f8fc0221950445
+
+PODFILE CHECKSUM: 0891703d8d566592df86b3264407defff0541777
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,6 @@
+framework module Feature3_swift {
+  umbrella header "Feature3_swift-umbrella.h"
+
+  export *
+  module * { export * }
+}

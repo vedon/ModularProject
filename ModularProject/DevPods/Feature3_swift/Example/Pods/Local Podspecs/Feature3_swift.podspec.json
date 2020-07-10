@@ -1,0 +1,22 @@
+{
+  "name": "Feature3_swift",
+  "version": "0.1.0",
+  "summary": "A short description of Feature3_swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vedon/Feature3_swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vedon": "fuweidong@bytedance.com"
+  },
+  "source": {
+    "git": "https://github.com/vedon/Feature3_swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Feature3_swift/Classes/**/*"
+}
