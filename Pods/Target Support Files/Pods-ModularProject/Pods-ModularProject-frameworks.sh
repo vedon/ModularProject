@@ -199,16 +199,12 @@ fi
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Feature1_swift/Feature1_swift.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Feature2_swift/Feature2_swift.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Feature3_swift/Feature3_swift.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Feature4_objc/Feature4_objc.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Feature5_objc/Feature5_objc.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Feature3_objc/Feature3_objc.framework"
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "${BUILT_PRODUCTS_DIR}/Feature1_swift/Feature1_swift.framework"
   install_framework "${BUILT_PRODUCTS_DIR}/Feature2_swift/Feature2_swift.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Feature3_swift/Feature3_swift.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Feature4_objc/Feature4_objc.framework"
-  install_framework "${BUILT_PRODUCTS_DIR}/Feature5_objc/Feature5_objc.framework"
+  install_framework "${BUILT_PRODUCTS_DIR}/Feature3_objc/Feature3_objc.framework"
 fi
 if [ "${COCOAPODS_PARALLEL_CODE_SIGN}" == "true" ]; then
   wait

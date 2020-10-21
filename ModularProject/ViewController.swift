@@ -9,9 +9,7 @@
 import UIKit
 import Feature1_swift
 import Feature2_swift
-import Feature3_swift
-import Feature4_objc
-import Feature5_objc
+import Feature3_objc
 
 class ViewController: UIViewController {
 

@@ -20,7 +20,7 @@
   },
   "source_files": "Feature1_swift/Classes/**/*",
   "dependencies": {
-    "Feature4_objc": [
+    "Feature2_swift": [
 
     ]
   }

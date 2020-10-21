@@ -6,4 +6,8 @@
 //
 
 import Foundation
+import Feature3_objc
 
+class Feature2 {
+    
+}

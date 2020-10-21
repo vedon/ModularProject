@@ -1,5 +1,3 @@
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Feature1_swift.framework
 ${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Feature2_swift.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Feature3_swift.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Feature4_objc.framework
-${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Feature5_objc.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Feature3_objc.framework

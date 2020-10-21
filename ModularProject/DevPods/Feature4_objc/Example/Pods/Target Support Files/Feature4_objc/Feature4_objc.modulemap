@@ -1,6 +1,0 @@
-framework module Feature4_objc {
-  umbrella header "Feature4_objc-umbrella.h"
-
-  export *
-  module * { export * }
-}

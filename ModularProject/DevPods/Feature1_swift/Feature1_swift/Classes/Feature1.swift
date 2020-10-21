@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import Feature4_objc
+import Feature2_swift
 
 class Feature1 {
     func callFeature4() {
